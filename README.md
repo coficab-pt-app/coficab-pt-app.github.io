@@ -21,7 +21,7 @@ Link para a política de privacidade de provedores de serviços de terceiros usa
 
 **Dados de Log**
 
-Queremos informá-lo que sempre que você usar o nosso serviço, em caso de erro no aplicativo, coletamos dados e informações (através de produtos de terceiros) em seu telefone chamado Log Data. Esses dados de registro podem incluir informações como o endereço IP do dispositivo, o nome do dispositivo, a versão do sistema operativo, a configuração do aplicativo ao utilizar nosso serviço, a hora e a data do seu uso do serviço e outras estatísticas.
+Queremos informá-lo que sempre que você usar o nosso serviço, em caso de erro no aplicativo, recolhemos dados e informações (através de produtos de terceiros) em seu telefone. Esses dados de registro podem incluir informações como o endereço IP do dispositivo, o nome do dispositivo, a versão do sistema operativo, a configuração do aplicativo ao utilizar nosso serviço, a hora e a data do seu uso do serviço e outras estatísticas.
 
 **Cookies**
 
