@@ -1,5 +1,5 @@
 <p style="text-align: right;">
-  <a href="./README.md">PT</a> | <a href="./README_en.md">EN</a>
+  <a href="./README">PT</a> | <a href="./README_en">EN</a>
 </p>
 
 ## Política de Privacidade
