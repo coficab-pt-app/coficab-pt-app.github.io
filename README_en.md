@@ -1,3 +1,7 @@
+<p style="text-align: right;">
+  <a href="./README">PT</a> | <a href="./README_en">EN</a>
+</p>
+
 ## Privacy Policy
 
 Coficab built the Coficab PT app as a Free app. This SERVICE is provided by Coficab at no cost and is intended for use as is.
