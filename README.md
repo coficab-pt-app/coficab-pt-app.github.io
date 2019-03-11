@@ -1,4 +1,4 @@
-##Política de Privacidade##
+## Política de Privacidade
 
 A Coficab desenvolveu o aplicativo Coficab PT como um aplicativo gratuito. Este SERVIÇO é fornecido pela Coficab sem nenhum custo e é destinado para uso como está.
 
