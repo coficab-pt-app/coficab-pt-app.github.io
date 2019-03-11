@@ -1,6 +1,8 @@
-<p style="text-align: right;">[PT](./README.md) | [EN](./README_en.md)</p>
+<p style="text-align: right;">
+  [PT](./README.md) | [EN](./README_en.md)
+</p>
 
-##Política de Privacidade
+## Política de Privacidade
 A Coficab desenvolveu o aplicativo Coficab PT como um aplicativo gratuito. Este SERVIÇO é fornecido pela Coficab sem nenhum custo e é destinado para uso como está.
 
 Esta página é usada para informar os visitantes sobre nossas políticas com a recolha, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço.
