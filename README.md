@@ -1,5 +1,6 @@
-## Política de Privacidade
+<p style="text-align: right;">[PT](./README.md) | [EN](./README_en.md)</p>
 
+##Política de Privacidade
 A Coficab desenvolveu o aplicativo Coficab PT como um aplicativo gratuito. Este SERVIÇO é fornecido pela Coficab sem nenhum custo e é destinado para uso como está.
 
 Esta página é usada para informar os visitantes sobre nossas políticas com a recolha, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço.
@@ -39,7 +40,7 @@ Queremos informar os utilizadores deste Serviço que esses terceiros têm acesso
 
 **Segurança**
 
-Valorizamos sua confiança ao nos fornecer suas Informações Pessoais, por isso estamos nos esforçando para usar meios comercialmente aceitáveis de protegê-los. Mas lembre-se de que nenhum método de transmissão pela internet ou método de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir sua segurança absoluta.
+Valorizamos sua confiança ao nos fornecer suas Informações Pessoais, por isso estamos nos esforçando para usar meios comercialmente aceitáveis ​​de protegê-los. Mas lembre-se de que nenhum método de transmissão pela internet ou método de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir sua segurança absoluta.
 
 **Links para outros sites**
 
@@ -49,6 +50,6 @@ Este Serviço pode conter links para outros sites. Se você clicar em um link de
 
 Podemos atualizar nossa Política de Privacidade de tempos em tempos. Assim, aconselhamos que você reveja esta página periodicamente para quaisquer alterações. Vamos notificá-lo de quaisquer alterações publicando a nova Política de Privacidade nesta página. Essas alterações são efetivadas imediatamente após serem publicadas nesta página.
 
-**Contate-nos**
+**Contate-Nos**
 
 Se você tiver dúvidas ou sugestões sobre nossa Política de Privacidade, não hesite em nos contatar através do email coficab.portugal@coficab.com.
